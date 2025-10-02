@@ -180,7 +180,4 @@ http://localhost:8080
 **DELETE /cursos/1**
 **DELETE /alunos/1**
 
-*.log
-
-
-Quer que eu faça isso?
+---
