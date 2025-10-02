@@ -180,18 +180,6 @@ http://localhost:8080
 **DELETE /cursos/1**
 **DELETE /alunos/1**
 
----
-
-## 🔹 .gitignore sugerido
-
-```gitignore
-/target
-*.class
-*.jar
-*.iml
-/.idea
-/.vscode
-/.mvn
 *.log
 
 
